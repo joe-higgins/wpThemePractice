@@ -1,7 +1,6 @@
 <?php
 /*
 Template Name: Joe Higgins First Theme
-Other stuff
 */
 ?>
 <!DOCTYPE html >
@@ -13,6 +12,8 @@ Other stuff
 </head>
 
 <body>
+  <!-- comment for practice -->
+  <h1>TOP OF PAGE</h1>
   <div class="full-page-wrap parallax">
     <div class="grid-wrap">
       <div class="row page-top">
